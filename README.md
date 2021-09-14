@@ -6,3 +6,5 @@ Goals:
 * Adjust a multivariate model to predictions using GAMLSS.
 * Evaluate the models and order to choose the better model.
 * Make predictions about the future.
+
+[oildatatimeseries.html](https://htmlpreview.github.io/?https://github.com/natmurad/oilpriceforecast/blob/main/oildatatimeseries.html) - html report explaining all the analysis.
